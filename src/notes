@@ -1,0 +1,2 @@
+name all component functions with PascalCasing. Files names of components should also use PascalCasing
+[vite] hmr update: hmr stands for Hot Module Replacement
