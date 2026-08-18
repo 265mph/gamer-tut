@@ -1,2 +1,13 @@
 name all component functions with PascalCasing. Files names of components should also use PascalCasing
 [vite] hmr update: hmr stands for Hot Module Replacement
+useState is used to hold the state of a variable. An example below:
+const [name, setName] = useState("Abiku");
+
+PROPS vs STATE:
+- Props are inputs or arguments passed to a component.
+- State is the internal data managed by a component.
+
+- Props are similar to function arguments.
+- States are similar to local variables.
+
+array of colors, each item has an index, for every click the number should increase by 1,
